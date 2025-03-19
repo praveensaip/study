@@ -1,7 +1,7 @@
 print("test")
 
 from dotenv import load_dotenv
-import os,random
+import os
 
 load_dotenv()
 
